@@ -1,0 +1,171 @@
+#header{
+    height: 80px;
+    width: 100%;
+   /* border: 1px solid red;*/
+    display: flex;
+}
+#header-left{
+width: 30%;
+/*border: 1px solid blue;*/
+display: flex;
+align-items: center;
+
+}
+#header-left>img{
+    height: auto;
+    width: 70px;
+    margin-left: 70%;
+}
+#header-right{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+width: 70%;
+/*border: 1px solid red;*/
+}
+#header-right>h2{
+    color: gray;
+    margin-left: -300px;
+}
+#top-bar{
+    background-color: lightblue;
+    height: 30px;
+    text-align: center;
+    font-size: 20px;
+}
+#main-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #F1F1EA;
+    height: auto;
+    width:100%;
+
+
+}
+#main-body>h1{
+    color: rgb(69, 66, 66);
+    font-size: 42px;
+    text-align: center;
+}
+#main-body>p{
+    text-align: center;
+    font-size: 22px;
+    color: rgb(69, 66, 66);
+}
+#box{
+    display: flex;
+   
+    height: 700px;
+    width: 65%;
+  /*  border:  1px solid red;*/
+    background-color: white;
+    border-radius: 8px;
+}
+#box-left{
+width: 50%;
+height: auto;
+/*border: 1px solid red;*/
+}
+#box-right{
+    width: 50%;
+    height: 600px;
+    /*border: 1px solid black;*/
+}
+#option{
+    display: flex;
+    height: 150px;
+    width: 85%;
+   /* border: solid 1px rebeccapurple;*/
+    margin-left: 33px;
+    margin-bottom: 10px;
+}
+#option>div{
+  text-align: center;
+    margin: auto;
+    height:130px ;
+    width: 45%;
+    border: 1px solid rgb(15, 209, 93);
+}
+#option>div>img{
+    margin-left: 55px;
+    height: 70px;
+}
+#week-option{
+    height: 120px;
+    width: 75%;
+   /* border: 1px solid red;*/
+    margin: auto;
+
+}
+#week-option>div{
+    margin: auto;
+    display: flex;
+    height: 55px;
+    width: 90%;
+   /* border: 1px solid black;*/
+}
+#week-option>div>div{
+    margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+    height: 55px;
+    width: 30%;
+    border: 1px solid green;
+    border-radius: 8px ;
+    text-align: center;
+}
+#bill{
+   
+    height: 270px;
+    width: 90%;
+    border: 1px solid rgb(16, 10, 10);
+    margin: auto;
+    
+}
+#button{
+    height: 50px;
+    width: 250px;
+    background-color: green;
+    border-radius: 5px;
+}
+#button>a{
+    color: white;
+    background-color: green;
+    text-decoration: none;
+    height: 50px;
+    width: 250px;
+    font-size: 20px;
+}
+#futter{
+    margin: auto;
+    height: 350px;
+    width: 100%;
+   /* border: 1px solid red;*/
+    display: flex;
+}
+#one{
+    margin-left: 40px;
+    height: 300px;
+    width: 25%;
+ /*   border: 1px solid red;*/
+}
+#two{
+    height: 300px;
+    width: 45%;
+   /* border: 1px solid red;*/
+}
+#three{
+    height: 300px;
+    width: 25%;
+   /* border: 1px solid red;*/
+}
+#app{
+ 
+  
+   
+
+}

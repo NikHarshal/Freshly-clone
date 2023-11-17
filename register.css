@@ -1,0 +1,115 @@
+#header{
+    height: 80px;
+    width: 100%;
+   /* border: 1px solid red;*/
+    display: flex;
+}
+#header-left{
+width: 30%;
+/*border: 1px solid blue;*/
+display: flex;
+align-items: center;
+
+}
+#header-left>img{
+    height: auto;
+    width: 70px;
+    margin-left: 70%;
+}
+#header-right{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+width: 70%;
+/*border: 1px solid red;*/
+}
+#header-right>h2{
+    color: gray;
+    margin-left: -300px;
+}
+
+#body{
+    background-color: #F1F1EA;
+    height: 700PX;
+    width: 100%;
+}
+#address{
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    width: 80%;
+    height: 500px;
+  /*  border:  1px solid red;*/
+    background-color: #F1F1EA;
+}
+#left-box{
+    background-color: white;
+    width: 55%;
+    height: 400px;
+  /*  border:  1px solid red;*/
+}
+#right-box{
+    background-color: white;
+    width: 35%;
+    height: 450px;
+   /* border:  1px solid red;*/
+}
+input{
+    
+    height: 30px;
+    width: 200px;
+}
+
+
+
+#top-bar{
+    background-color: lightblue;
+    height: 30px;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#futter{
+    margin: auto;
+    height: 350px;
+    width: 100%;
+   /* border: 1px solid red;*/
+    display: flex;
+}
+#one{
+    margin-left: 40px;
+    height: 300px;
+    width: 25%;
+ /*   border: 1px solid red;*/
+}
+#two{
+    height: 300px;
+    width: 45%;
+   /* border: 1px solid red;*/
+}
+#three{
+    height: 300px;
+    width: 25%;
+   /* border: 1px solid red;*/
+}
+#app{
+ 
+  
+   
+
+}
